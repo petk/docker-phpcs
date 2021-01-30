@@ -13,5 +13,5 @@ make build
 Use it:
 
 ```sh
-docker run -it -rm -v `pwd`:/opt/app phpcs
+docker run -it -rm -v `pwd`:/opt/app/ phpcs .
 ```
