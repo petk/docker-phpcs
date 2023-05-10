@@ -1,2 +1,2 @@
 build:
-	docker build --pull --no-cache -t phpcs .
+	docker build --pull --no-cache --tag petk/phpcs --file Dockerfile .
