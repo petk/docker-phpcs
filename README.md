@@ -1,5 +1,7 @@
 # Docker PHPCS
 
+![Test workflow](https://github.com/petk/docker-phpcs/actions/workflows/tests.yaml/badge.svg)
+
 Docker image with [phpcs](https://github.com/squizlabs/PHP_CodeSniffer).
 
 ## Usage
